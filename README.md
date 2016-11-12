@@ -1,6 +1,6 @@
 #Ray tracer in C++
 
-##How to run
+##How to run in Visual Studio
 
 1. Open Raytracer.vcxproj
 
