@@ -1,6 +1,6 @@
-#Ray tracer in C++
+# Ray tracer in C++
 
-##How to run in Visual Studio
+## How to run in Visual Studio
 
 1. Open Raytracer.vcxproj
 
@@ -15,12 +15,12 @@
 6. To stop the plane being reflective, change Plane.cpp shininess to 0
 
 
-##Examples
+## Examples
 
-#####Soft shadows and recursive reflection with a plane, spheres and complex shape consisting of triangles
+##### Soft shadows and recursive reflection with a plane, spheres and complex shape consisting of triangles
 
 ![SoftShadowsComplexShapes](http://i.imgur.com/dDYYFRo.png)
 
-#####Similar to the above, but with a reflective plane
+##### Similar to the above, but with a reflective plane
 
 ![ReflectiveComplexShapes](http://i.imgur.com/vgKSWFf.png)
